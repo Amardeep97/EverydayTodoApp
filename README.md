@@ -26,17 +26,17 @@ This application is made in order for users to add their task which can be daily
 19. Logout feature of user
 
 # Screenshots of TodoApp
-<img src="Screenshot_1.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_2.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_3.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_4.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_5.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_6.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_7.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_8.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_10.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_11.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_12.png" width="350" height="600" title="Github Logo">
+<img src="1.png" width="350" height="600" title="Github Logo">
+<img src="2.png" width="350" height="600" title="Github Logo">
+<img src="3.png" width="350" height="600" title="Github Logo">
+<img src="4.png" width="350" height="600" title="Github Logo">
+<img src="5.png" width="350" height="600" title="Github Logo">
+<img src="6.png" width="350" height="600" title="Github Logo">
+<img src="7.png" width="350" height="600" title="Github Logo">
+<img src="8.png" width="350" height="600" title="Github Logo">
+<img src="10.png" width="350" height="600" title="Github Logo">
+<img src="11.png" width="350" height="600" title="Github Logo">
+<img src="12.png" width="350" height="600" title="Github Logo">
 
 
 
