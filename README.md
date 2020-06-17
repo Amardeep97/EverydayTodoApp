@@ -1,10 +1,10 @@
-#Everyday Todo Appplication
+# Everyday Todo Appplication
 Final Android Project
 
-About the Application
+# About This Application
 This application is made in order for users to add their task which can be daily, weekly, monthly or yearly. In order to use this application, the users’ needs to be registered first. The users who use this app can add, update and delete any task that they have added. The app has two version of todo task which comes with and without ORM.
 
-Features Included in this application
+# Features Included in this application
 1. Splash Screen
 2. Register and Login including validators
 3. User dashboard 
@@ -24,6 +24,19 @@ Features Included in this application
 17. Dates can be set by the current date which shows a type of calendar to select the date.
 18. Different toast message and alert dialog box
 19. Logout feature of user
+
+# Screenshots of TodoApp
+<img src="Screenshot_1.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_2.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_3.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_4.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_5.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_6.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_7.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_8.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_10.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_11.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_12.png" width="350" height="600" title="Github Logo">
 
 
 
