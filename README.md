@@ -1,4 +1,4 @@
-Everyday Todo Appplication
+#Everyday Todo Appplication
 Final Android Project
 
 About the Application
