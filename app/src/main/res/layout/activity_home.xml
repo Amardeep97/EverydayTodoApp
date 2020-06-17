@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/button_add"
+            android:layout_width="wrap_content"
+            android:layout_height="64dp"
+            android:text="TODO MVVM" />
+
+        <Button
+            android:id="@+id/button_about"
+            android:layout_width="wrap_content"
+            android:layout_height="64dp"
+            android:text="About" />
+
+        <Button
+            android:id="@+id/button_dashboard"
+            android:layout_width="wrap_content"
+            android:layout_height="64dp"
+            android:text="Dashboard" />
+
+        <Button
+            android:id="@+id/button_logout"
+            android:layout_width="wrap_content"
+            android:layout_height="64dp"
+            android:text="Exit " />
+
+
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/button_orm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Todo ORM" />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Your todo list"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/empty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List is Empty!!"
+        android:layout_margin="100dp"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <ListView
+        android:id="@+id/listview_todo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:divider="@color/material_blue_grey_800"
+        android:dividerHeight="1dp"
+        android:listSelector="#FDD835"/>
+
+
+</LinearLayout>
